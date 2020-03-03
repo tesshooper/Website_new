@@ -22,7 +22,7 @@ font = "rose"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -90,7 +90,7 @@ address = {street = "", city = "Santa Barbara", region = "CA", postcode = "93105
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "", longitude = ""}
+coordinates = {latitude = "34.4131", longitude = "-119.8422"}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -117,10 +117,10 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+# sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+# twitter = ""
 
 ############################
 ## Regional Settings

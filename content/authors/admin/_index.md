@@ -19,6 +19,7 @@ interests:
 - Conservation Planning
 - Land Use Planning
 - Strategic Communication
+- Environmental Education
 name: Tess Hooper
 organizations:
 - name: The Bren School of Environmental Science & Management, University of California, Santa Barbara
@@ -28,15 +29,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/tesshooper
 superuser: true
 user_groups:
 - Researchers
